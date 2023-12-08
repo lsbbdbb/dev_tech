@@ -1,0 +1,41 @@
+
+h1{
+    color:rgb(9, 9, 112);
+    text-align: center;
+    line-height: 100px;
+    text-decoration:none;
+    font-family:"Times New Roman", Times, serif;
+}
+.return
+{
+    text-align: left;
+    text-decoration: none;
+}
+h2{
+    color: palevioletred;
+    text-align: left;
+    font-family:"Times New Roman", Times, serif;
+}
+.introduce
+{
+    line-height: 0px;
+    text-indent:50px;
+    color:blueviolet;
+    word-spacing:30px;
+}
+.goutou
+{
+    text-decoration:overline;
+    color:brown
+}
+.right
+{
+    text-align: right;
+    color:aquamarine
+}
+.left
+{
+    text-align: left;
+    color:brown;
+    word-
+}
